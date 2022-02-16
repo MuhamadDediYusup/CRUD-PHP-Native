@@ -9,3 +9,6 @@ if ($hapus) {
         window.location = 'index.php'
     </script>";
 }
+
+
+//cek login
